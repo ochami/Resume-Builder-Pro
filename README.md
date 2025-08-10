@@ -2,7 +2,7 @@
 
 A powerful, easy-to-use Resume Builder that lets users create professional resumes in minutes. It offers at least 10 professionally designed templates to suit different industries, roles, and personal styles.
 
-# Features
+## Features
 
 * 10+ Resume Templates: Choose from a variety of designs, from sleek modern to classic professional.
 
@@ -20,7 +20,7 @@ A powerful, easy-to-use Resume Builder that lets users create professional resum
 
 * Privacy First: All resume data stays in your browser unless you choose to export it.
 
-# How It Works
+## How It Works
 
 + Select a Template from the available designs.
 
@@ -30,7 +30,7 @@ A powerful, easy-to-use Resume Builder that lets users create professional resum
 
 + Preview & download your resume instantly.
 
-# Use Cases
+## Use Cases
 
 - Fresh graduates creating their first resume.
 
@@ -38,6 +38,6 @@ A powerful, easy-to-use Resume Builder that lets users create professional resum
 
 - Freelancers and consultants who want quick, stylish resumes.
 
-# License
+## License
 
 This project is licensed under the MIT License.
